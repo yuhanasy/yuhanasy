@@ -1,6 +1,6 @@
 ## Halohalo 👋, I'm Yuhanas
 
-![](yuhanasy.jpg)
+![](https://res.cloudinary.com/yuhanasyu/image/upload/c_scale,w_400/v1595554406/yuhanasy_cy6ydp.jpg)
 
 <a href="https://www.instagram.com/yuhanas.yu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
