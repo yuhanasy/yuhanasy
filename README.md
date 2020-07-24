@@ -1,6 +1,6 @@
 ## Halohalo 👋, I'm Yuhanas
 
-![my-artwork](yuhanasy.jpg)
+![](yuhanasy.jpg)
 
 <br />
 
