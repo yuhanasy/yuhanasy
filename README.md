@@ -2,8 +2,6 @@
 
 ![](yuhanasy.jpg)
 
-<br />
-
 <a href="https://www.instagram.com/yuhanas.yu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -53,4 +51,4 @@ Halo again, I'm Yuhanas. Actually I'm a bit shy to introduce my self, and of cou
 
 ...and, hey before you left, I want you to know that I reeaaaaally want to collaborate with many people out there, learning and gaining experiences with them. If any of you want to share knowledge and experience with me, contact me please. End of FYI. 🥱
 
-
+💌 Here I left my email: yulianto.yuhanas@gmail.com
