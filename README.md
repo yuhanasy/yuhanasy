@@ -1,6 +1,6 @@
 **Halohalo 👋, I'm Yuhanas** 🙇🏻‍♂️
 
-I'm currently working as frontend engineer [@eFishery](https://efishery.com/), fully remote from Jember, Indonesia 🇮🇩. I focus on building several web applications for both our internal platform and our end users. 
+I'm ~~`ex: geophysical_engineering_student 👷🏻‍♂️`~~   currently working as `frontend_engineer 👨🏻‍💻` [@eFishery](https://efishery.com/), fully remote from  Jember, Indonesia 🇮🇩. I focus on building several web applications for both our internal platform and our end users. 
 
 
 ...and, hey before you left, I want you to know that I reeaaaaally want to collaborate with many people out there, learning and gaining experiences with them. If any of you want to share knowledge and experience with me, contact me please. End of FYI. 🥱
